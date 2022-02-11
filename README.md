@@ -10,4 +10,4 @@
 
 
  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimpinarbasi)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimpinarbasi&langs_count=10)
